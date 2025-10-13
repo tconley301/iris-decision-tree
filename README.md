@@ -57,7 +57,3 @@ python src/iris-DT-clf.py
 
 ### Classification Report
 ![Classification Report](images/classification-report.png)
-
-
-## License
-See [LICENSE](LICENSE).
